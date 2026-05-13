@@ -1,4 +1,4 @@
-# Final Comprehensive Documentation — Smart Space Booking Platform (English)
+# Final Comprehensive Documentation — Raeel Booking Platform (English)
 
 > Executive + technical documentation for clients, leadership, and specialist teams (Backend / Web / Mobile / QA / DevOps).
 >
@@ -8,7 +8,7 @@
 
 ## 1) Executive Summary
 
-**Smart Space Booking** is a SaaS platform for operating and booking spaces (halls, offices, coworking areas, storage units, etc.) with a complete lifecycle from inquiry to payment and analytics.
+** Raeel Booking paltform** is a SaaS platform for operating and booking spaces (halls, offices, coworking areas, storage units, etc.) with a complete lifecycle from inquiry to payment and analytics.
 
 ### Immediate business value
 - Higher occupancy utilization.
